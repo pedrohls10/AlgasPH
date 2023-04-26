@@ -8,7 +8,7 @@ import datetime
 def transportes():
     # Criar conexão com o banco de dados
     mydb = mysql.connector.connect(
-        host="34.238.50.14",
+        host="34.236.133.247",
         user="root",
         password="urubu100",
         database='transportePublico'
